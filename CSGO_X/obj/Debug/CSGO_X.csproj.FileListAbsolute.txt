@@ -1,0 +1,10 @@
+C:\Users\SmRiley\OneDrive\source\repos\CSGO_X\CSGO_X\bin\Debug\CSGO_X.exe.config
+C:\Users\SmRiley\OneDrive\source\repos\CSGO_X\CSGO_X\bin\Debug\CSGO_X.exe
+C:\Users\SmRiley\OneDrive\source\repos\CSGO_X\CSGO_X\bin\Debug\CSGO_X.pdb
+C:\Users\SmRiley\OneDrive\source\repos\CSGO_X\CSGO_X\obj\Debug\CSGO_X.csprojAssemblyReference.cache
+C:\Users\SmRiley\OneDrive\source\repos\CSGO_X\CSGO_X\obj\Debug\CSGO_X.Form1.resources
+C:\Users\SmRiley\OneDrive\source\repos\CSGO_X\CSGO_X\obj\Debug\CSGO_X.Properties.Resources.resources
+C:\Users\SmRiley\OneDrive\source\repos\CSGO_X\CSGO_X\obj\Debug\CSGO_X.csproj.GenerateResource.cache
+C:\Users\SmRiley\OneDrive\source\repos\CSGO_X\CSGO_X\obj\Debug\CSGO_X.exe
+C:\Users\SmRiley\OneDrive\source\repos\CSGO_X\CSGO_X\obj\Debug\CSGO_X.pdb
+C:\Users\SmRiley\OneDrive\source\repos\CSGO_X\CSGO_X\obj\Debug\CSGO_X.bitmap_form.resources
